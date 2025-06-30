@@ -2,7 +2,7 @@
 
 An interactive and professional dashboard built using **Streamlit**, **Plotly**, and **Pandas** to visualize and analyze company sales data.
 
-> Hosted Live: [Click here to open the dashboard](https://salesdashboard-arnavparashar.streamlit.app)
+> Hosted Live: [Click here to open the dashboard](https://salesdashboard-aradiya9t4ln82p4bibfow.streamlit.app/)
 
 ---
 
